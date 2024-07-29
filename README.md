@@ -66,4 +66,5 @@ mvn spring-boot:run
 ## Jar 실행시
 ```bash
 java -jar <jar파일명> --spring.profiles.active=<profile명>
+
 ```
